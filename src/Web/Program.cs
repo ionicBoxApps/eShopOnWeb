@@ -1,6 +1,4 @@
-﻿// My First Change Now
-//2
-//34
+﻿// My First Change -- back to basics
 using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using BlazorAdmin;
